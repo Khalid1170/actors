@@ -1,0 +1,60 @@
+.container{
+    /* background-color: grey; */
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.list{
+    /* background-color: red; */
+    width: 30%;
+    cursor: pointer;
+    background-color: grey;
+    height: 40vh;
+    
+}
+
+.display{
+    width: 100%;
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    background-color: grey;
+
+}
+
+.list{
+    font-weight: bold;
+    font-size:30px;
+}
+
+.actors{
+    color: white;
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 25px;
+    border-radius: 5px;
+    border: black 5px solid;
+    /* margin-left: 20px; */
+}
+/* .actors:hover{
+    background-color: aqua;
+} */
+
+/* Style for actor image */
+#actor-image img {
+    width: 1000px;  /* Set image width to 300px */
+    height: 350px; /* Set image height to 400px */
+    margin-top: 50px;
+  }
+  
+ #actor-name{
+    font-weight: bold;
+    margin-left: 5px;
+    /* background-color: grey; */
+ } 

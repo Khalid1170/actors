@@ -1,0 +1,78 @@
+{
+    "actors": [
+      {
+        "name": "Liam Neeson",
+        "total_movies": 107,
+        "films": [
+          "Taken",
+          "Schindler's List",
+          "The Grey",
+          "Non-Stop",
+          "Love Actually"
+        ],
+        "image_url": "https://wallpapers.com/images/hd/liam-neeson-taken-3-movie-poster-gun-pose-3zsid6f759qwl03e.jpg"
+      },
+      {
+        "name": "Jackie Chan",
+        "total_movies": 150,
+        "films": [
+          "Drunken Master",
+          "Rush Hour",
+          "Police Story",
+          "The Karate Kid",
+          "Shanghai Noon",
+          "Nw movie"
+        ],
+        "image_url": "https://c4.wallpaperflare.com/wallpaper/121/271/699/movie-the-karate-kid-2010-jackie-chan-jaden-smith-wallpaper-preview.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "total_movies": 84,
+        "films": [
+          "Iron Man",
+          "The Avengers",
+          "Sherlock Holmes",
+          "Chaplin",
+          "Tropic Thunder"
+        ],
+        "image_url": "https://wallpapercat.com/w/full/9/0/e/486902-1920x1080-desktop-1080p-tony-stark-iron-man-wallpaper-image.jpg"
+      },
+      {
+        "name": "Dwayne Johnson",
+        "total_movies": 46,
+        "films": [
+          "Fast & Furious 7",
+          "Jumanji: Welcome to the Jungle",
+          "San Andreas",
+          "The Scorpion King",
+          "Hobbs & Shaw"
+        ],
+        "image_url": "https://wallpapers.com/images/hd/resurrected-black-adam-z53t6jgxg1hq53c3.jpg"
+      },
+      {
+        "name": "Vin Diesel",
+        "total_movies": 49,
+        "films": [
+          "Fast & Furious",
+          "Guardians of the Galaxy",
+          "The Chronicles of Riddick",
+          "xXx",
+          "The Pacifier"
+        ],
+        "image_url": "https://images.wallpapersden.com/image/wxl-vin-diesel-in-fast-and-furious-9_68887.jpg"
+      },
+      {
+        "name": "Jason Statham",
+        "total_movies": 43,
+        "films": [
+          "The Transporter",
+          "Crank",
+          "The Expendables",
+          "Fast & Furious 7",
+          "Spy"
+        ],
+        "image_url": "https://images7.alphacoders.com/341/341580.jpg"
+      }
+    ]
+  }
+  
